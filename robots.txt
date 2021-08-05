@@ -1,5 +1,5 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://internet-explorer-11-download.herokuapp.com/host-https-downloads.digitaltrends.com/sitemap-index.xml
+Sitemap: https://internet-explorer-11-download.herokuapp.com/host-https-www.windowsdigitals.com/sitemap_index.xml
 Sitemap: https://internet-explorer-11-download.herokuapp.com/sitemap.xml

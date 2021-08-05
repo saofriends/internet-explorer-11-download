@@ -2,7 +2,7 @@
   "name-web":"Internet Explorer 11 Download",
   "author":"internet explorer 11",
   "remove-comment-html":true,
-  "target":"https://downloads.digitaltrends.com/internet-explorer-11/windows",
+  "target":"https://www.windowsdigitals.com/download-internet-explorer-11-for-windows-10-64-bit/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"downloads.digitaltrends.com/internet-explorer-11/windows",
+      "target":"www.windowsdigitals.com/download-internet-explorer-11-for-windows-10-64-bit",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
